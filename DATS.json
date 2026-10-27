@@ -114,6 +114,7 @@
       },
       "access": {
         "landingPage": "https://doi.org/10.17605/OSF.IO/6CTSJ",
+        "accessURL": "https://github.com/katielavigne/sternberg-working-memory-task/archive/refs/heads/main.zip",
         "authorizations": [
           {
             "value": "public"
